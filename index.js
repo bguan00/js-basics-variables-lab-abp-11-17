@@ -1,1 +1,1 @@
-let companyName = 'Scuber';
+cost companyName = 'Scuber';
